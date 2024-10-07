@@ -19,7 +19,7 @@ Một ứng dụng React-Redux-TypeScript cho phép người dùng xem và thêm
 1. **Clone Repository**: Clone repository về máy:
 
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/minhtu123ab/Test-BlueOc.git
    ```
 
 2. **Chuyển vào Thư Mục Dự Án**: Chuyển vào thư mục dự án:
